@@ -6,3 +6,4 @@
 - Uploaded Homework2.cs
 - Uploaded Homework3.cs wrong file in week 4 folder.
 - Uploaded Homewwork5.cs code file to grade.
+- Uploaded homework6.cs code file for grade
